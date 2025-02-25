@@ -20,4 +20,6 @@
 <br>
 <br>
 
-<video controls src="dizayn-1.mp4" title="Title"></video># reactlist
+<video controls src="dizayn-1.mp4" title="Title">
+</video>
+
