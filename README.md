@@ -18,12 +18,10 @@
 </h4>
 
 <br>
+
+
+
+Ekran Kaydı:
 <br>
-
-<video controls src="dizayn-1.mp4" title="Title">
-</video>
-
-
-
 https://github.com/user-attachments/assets/3b3f9eb4-03c0-4b86-93d2-6435f9146af4
 
