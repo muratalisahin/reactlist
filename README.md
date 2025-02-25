@@ -16,12 +16,15 @@
 ❇react-redux: Redux-React entegrasyonu.<br>
 ❇react-router-dom: Sayfa yönlendirmeleri.<br>
 </h4>
-
+iletişim: https://www.linkedin.com/in/muratalisahin/
 <br>
 Ekran Kaydı:
-
-
-
 <br>
-https://github.com/user-attachments/assets/3b3f9eb4-03c0-4b86-93d2-6435f9146af4
+
+
+
+
+https://github.com/user-attachments/assets/1b8f30bc-b58f-4824-a30f-4b95e54b1785
+
+
 
