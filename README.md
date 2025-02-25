@@ -18,10 +18,10 @@
 </h4>
 
 <br>
-
-
-
 Ekran Kaydı:
+
+
+
 <br>
 https://github.com/user-attachments/assets/3b3f9eb4-03c0-4b86-93d2-6435f9146af4
 
